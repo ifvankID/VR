@@ -1,0 +1,12 @@
+{
+  "global": {
+    "enabled": true,
+    "message": ""
+  },
+  "apps": {
+    "com.ifvank.thermal": {
+      "enabled": true,
+      "message": ""
+    }
+  }
+}
