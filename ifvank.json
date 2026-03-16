@@ -1,7 +1,7 @@
 {
   "global": {
     "enabled": true,
-    "message": ""
+    "message": "ERROR 404"
   },
   "apps": {
     "com.ifvank.thermal": {
