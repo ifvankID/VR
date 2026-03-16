@@ -1,8 +1,8 @@
 {
   "apps": {
     "com.ifvank.thermal": {
-      "enabled": true,
-      "message": "degaga harapan"
+      "enabled": false,
+      "message": ""
     }
   }
 }
