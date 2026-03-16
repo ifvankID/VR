@@ -5,7 +5,7 @@
   },
   "apps": {
     "com.ifvank.thermal": {
-      "enabled": true,
+      "enabled": false,
       "message": ""
     }
   }
